@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 I'm a student at the Chennai Mathematical Institute, currently pursuing my M.Sc. at Data Science. 
 
 ### Alma mater :mortar_board:
+- Indian Statistical Institute    [ISI](https://www.isical.ac.in/)'25 (*Post Graduate Diploma in Applied Statistics*)
 - Chennai Mathematical Institute  [CMI](https://www.cmi.ac.in/) '24 (*M.Sc. Data Science*)
 - Presidency University, Kolkata  [PU](https://presiuniv.ac.in/) '22 (*B.Sc. Statistics*)
 
